@@ -13,6 +13,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/basicviews" />
             <option value="$PROJECT_DIR$/firstproject" />
+            <option value="$PROJECT_DIR$/layoutfiles" />
+            <option value="$PROJECT_DIR$/layouts" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />

@@ -23,3 +23,5 @@ rootProject.name = "Android"
 include(":app")
 include(":firstproject")
 include(":basicviews")
+include(":layoutfiles")
+include(":layouts")
